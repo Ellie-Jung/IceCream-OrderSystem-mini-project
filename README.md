@@ -12,7 +12,7 @@ OOP Base Cmd Mini Project
 
 
 
-### 3. 기능
+### 2. 기능
 
   * 전체메뉴 
   * 회원
@@ -32,7 +32,7 @@ OOP Base Cmd Mini Project
 
 
 
-### 5. 구현방법
+### 3. 구현방법
    * DataBase : Oracle SQL
    * Language : JAVA
    

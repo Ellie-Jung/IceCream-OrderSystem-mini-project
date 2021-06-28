@@ -14,8 +14,13 @@
 [나자바아이스크림가게_.pptx](https://github.com/Ellie-Jung/IceCream-OrderSystem-mini-project/files/6725017/_.pptx)
 
 
+### 2. 설계
+ ![UseCaseDiagram](https://user-images.githubusercontent.com/81676847/123565236-2b670d80-d7f7-11eb-9bdf-91fdae427666.png)
+![설계ERD](https://user-images.githubusercontent.com/81676847/123611953-144b0e80-d83d-11eb-8fc2-3ce10e8c68de.png)
 
-### 2. 기능
+
+
+### 3. 기능
 
   * 전체메뉴 
   * 회원
@@ -41,9 +46,7 @@
       * 일별 매출 보기
   
 
-### 3. 구현방법
+### 4. 구현방법
    * DataBase : Oracle SQL
    * Language : JAVA
-   ![UseCaseDiagram](https://user-images.githubusercontent.com/81676847/123565236-2b670d80-d7f7-11eb-9bdf-91fdae427666.png)
-![najavaERD](https://user-images.githubusercontent.com/81676847/123565259-3b7eed00-d7f7-11eb-87c3-d7f59a7c5487.png)
-
+  

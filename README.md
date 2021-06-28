@@ -9,6 +9,8 @@ OOP Base Cmd Mini Project
 ---------------------------------------------------------------
 ### 1. 주제 
   회원제 아이스크림 주문 시스템
+![UseCaseDiagram](https://user-images.githubusercontent.com/81676847/123565236-2b670d80-d7f7-11eb-9bdf-91fdae427666.png)
+![najavaERD](https://user-images.githubusercontent.com/81676847/123565259-3b7eed00-d7f7-11eb-87c3-d7f59a7c5487.png)
 
 
 

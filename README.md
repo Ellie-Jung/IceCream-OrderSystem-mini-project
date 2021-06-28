@@ -49,4 +49,26 @@
 ### 4. 구현방법
    * DataBase : Oracle SQL
    * Language : JAVA
+ ## 4-1 DB 테이블 구성
   
+**Member Table ( 회원 테이블)**
+
+ ![image](https://user-images.githubusercontent.com/81676847/123613404-5aed3880-d83e-11eb-9a96-ffd3e1e36698.png)
+ 
+ 
+ **Product Table (상품 테이블)**
+ 
+ ![상품](https://user-images.githubusercontent.com/81676847/123613694-9daf1080-d83e-11eb-8577-8b90915db173.png)
+ 
+ **Order Table (주문 테이블)**
+ 
+ ![주문](https://user-images.githubusercontent.com/81676847/123613784-b15a7700-d83e-11eb-821d-8cd871320ed5.png)
+
+
+
+ ## 4-2 자바 패키지 구성
+ **주문**
+ **상품**
+ **회원**
+ **관리자**
+ **구동패키지**

@@ -1,5 +1,5 @@
 # IceCream-OrderSystem-mini-project
-OOP Base Cmd Mini Project
+> OOP Base Cmd Mini Project
 ------------------------------------------------------------
 
 
@@ -9,8 +9,9 @@ OOP Base Cmd Mini Project
 ---------------------------------------------------------------
 ### 1. 주제 
   회원제 아이스크림 주문 시스템
-![UseCaseDiagram](https://user-images.githubusercontent.com/81676847/123565236-2b670d80-d7f7-11eb-9bdf-91fdae427666.png)
-![najavaERD](https://user-images.githubusercontent.com/81676847/123565259-3b7eed00-d7f7-11eb-87c3-d7f59a7c5487.png)
+  
+
+[나자바아이스크림가게_.pptx](https://github.com/Ellie-Jung/IceCream-OrderSystem-mini-project/files/6725017/_.pptx)
 
 
 
@@ -18,11 +19,12 @@ OOP Base Cmd Mini Project
 
   * 전체메뉴 
   * 회원
-       * 로그인하기
-       * 회원가입하기
+       * 로그인
+       * 회원 가입
        * 아이디, 비밀번호 찾기
-       * 내정보 보기
-       * 내정보 수정하기
+       * 내 정보 보기
+       * 내 정보 수정
+       * 로그 아웃
   * 상품
       * 상품 목록 추가하기
       * 상품 목록 수정하기
@@ -31,10 +33,17 @@ OOP Base Cmd Mini Project
       * 주문하기
       * 결제하기
       * 영수증 출력
-
-
+  * 관리자
+      * 모든 회원 보기
+      * 특정 회원 휴면회원처리
+      * 총 매출 보기
+      * 월별 매출 보기
+      * 일별 매출 보기
+  
 
 ### 3. 구현방법
    * DataBase : Oracle SQL
    * Language : JAVA
-   
+   ![UseCaseDiagram](https://user-images.githubusercontent.com/81676847/123565236-2b670d80-d7f7-11eb-9bdf-91fdae427666.png)
+![najavaERD](https://user-images.githubusercontent.com/81676847/123565259-3b7eed00-d7f7-11eb-87c3-d7f59a7c5487.png)
+
